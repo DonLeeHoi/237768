@@ -23,6 +23,7 @@ public class Count2Thread extends Thread {
  
  
 }
+
 class print extends Thread{
 	 @Override
 	 public void run() {
